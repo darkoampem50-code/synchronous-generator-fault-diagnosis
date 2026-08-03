@@ -7,7 +7,7 @@ simulation with Python-based model development.
 ## Overview
 
 A synchronous generator was simulated in MATLAB/Simulink to generate operating data
-under healthy conditions and under two common fault types (rotor and stator faults).
+under healthy conditions and under three fault types (rotor, stator, and bearing faults.
 This data was then used to train and compare four machine learning models for
 automated fault classification, with the goal of supporting predictive maintenance
 in power system operations.
