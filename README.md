@@ -29,8 +29,8 @@ in power system operations.
 | `healthy_gen.csv` | Simulated data — healthy operating condition |
 | `rotor_fault.csv` | Simulated data — rotor fault condition |
 | `stator_fault.csv` | Simulated data — stator fault condition |
-| `project_work1.ipynb` | Python notebook — data processing, model training, and evaluation |
 | `bearing_fault.csv` | Simulated data — bearing fault condition |
+| `project_work1.ipynb` | Python notebook — data processing, model training, and evaluation |
 
 ## Tools & Libraries
 
