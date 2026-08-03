@@ -30,6 +30,7 @@ in power system operations.
 | `rotor_fault.csv` | Simulated data — rotor fault condition |
 | `stator_fault.csv` | Simulated data — stator fault condition |
 | `project_work1.ipynb` | Python notebook — data processing, model training, and evaluation |
+| `bearing_fault.csv` | Simulated data — bearing fault condition |
 
 ## Tools & Libraries
 
